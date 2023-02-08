@@ -43,8 +43,11 @@
 
 <br />
 <br />
+
 ---
+
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=12127926842)
+
 ---
 
 <details>
