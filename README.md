@@ -40,6 +40,7 @@ My technical foundation is the **PHP/Laravel ecosystem**, extended with **Filame
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-00aae4?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🎨 Frontend & UI
 
